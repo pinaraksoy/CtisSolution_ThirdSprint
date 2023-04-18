@@ -1,8 +1,9 @@
 package com.ctisSolution.step_definitions;
 
 
-import com.ctisSolutions.pages.MessageAttachmentPage_Armel;
-import com.ctisSolutions.utilities.Driver;
+
+import com.ctisSolution.pages.MessageAttachmentPage_Armel;
+import com.ctisSolution.utilities.Driver;
 import io.cucumber.java.Before;
 import org.openqa.selenium.WebDriver;
 

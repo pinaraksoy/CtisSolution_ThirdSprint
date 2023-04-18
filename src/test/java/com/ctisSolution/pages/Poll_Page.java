@@ -1,6 +1,7 @@
 package com.ctisSolution.pages;
 
-import com.ctisSolutions.utilities.Driver;
+
+import com.ctisSolution.utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;

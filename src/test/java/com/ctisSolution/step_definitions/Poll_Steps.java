@@ -1,8 +1,9 @@
 package com.ctisSolution.step_definitions;
 
-import com.ctisSolutions.pages.Poll_Page;
-import com.ctisSolutions.utilities.BrowserUtils;
-import com.ctisSolutions.utilities.Driver;
+
+import com.ctisSolution.pages.Poll_Page;
+import com.ctisSolution.utilities.BrowserUtils;
+import com.ctisSolution.utilities.Driver;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

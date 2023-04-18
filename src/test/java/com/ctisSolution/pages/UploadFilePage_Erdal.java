@@ -1,7 +1,8 @@
 package com.ctisSolution.pages;
 
-import com.ctisSolutions.utilities.BrowserUtils;
-import com.ctisSolutions.utilities.Driver;
+
+import com.ctisSolution.utilities.BrowserUtils;
+import com.ctisSolution.utilities.Driver;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

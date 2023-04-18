@@ -1,9 +1,10 @@
 package com.ctisSolution.step_definitions;
 
-import com.ctisSolutions.pages.LoginPage;
-import com.ctisSolutions.pages.LogoutPage;
-import com.ctisSolutions.pages.UploadFilePage_Erdal;
-import com.ctisSolutions.utilities.Driver;
+
+import com.ctisSolution.pages.LoginPage;
+import com.ctisSolution.pages.LogoutPage;
+import com.ctisSolution.pages.UploadFilePage_Erdal;
+import com.ctisSolution.utilities.Driver;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
